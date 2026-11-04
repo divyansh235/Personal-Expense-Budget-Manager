@@ -90,3 +90,10 @@ Screenshots of the input and output for each test case are included in the proje
 
 ## 11. Conclusion
 The Personal Expense & Budget Manager provides a simple way to record expenses and monitor monthly spending. It helps users understand their spending habits and manage their budget effectively.
+## Project Mentor
+
+*Mentored by:* [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+*GitHub:* [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+*Role:* Python Mentor / Technical Guide
